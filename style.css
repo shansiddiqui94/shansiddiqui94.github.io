@@ -144,7 +144,7 @@ a:hover{
     box-shadow: var(--shadow);
 }
 .contact{
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
 }
 input {
