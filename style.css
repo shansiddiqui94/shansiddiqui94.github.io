@@ -148,10 +148,12 @@ a:hover{
     margin: 0 auto;
 }
 input{
-    min-width: 30vw;
+     min-width: 30vw;
     margin-bottom: 15px;
     margin-top: 5px;
-    padding: 0.5 rem;
+    padding: .5rem;
+    border-radius: 35px;
+    background-color: #fbfbf0;
 }
 input[type=“submit”]{
     background-color: var(--third-color);
