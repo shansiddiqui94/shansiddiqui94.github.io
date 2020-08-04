@@ -139,7 +139,7 @@ a:hover{
     width: 80vw;
     padding: 1rem;
     margin: 0.5rem;
-    border-radius: 6px;
+    border-radius: 35px;
     background-color: var(--second-color);
     box-shadow: var(--shadow);
 }
@@ -148,12 +148,10 @@ a:hover{
     margin: 0 auto;
 }
 input{
-     min-width: 30vw;
+    min-width: 30vw;
     margin-bottom: 15px;
     margin-top: 5px;
-    padding: .5rem;
-    border-radius: 35px;
-    background-color: #fbfbf0;
+    padding: 0.5 rem;
 }
 input[type=“submit”]{
     background-color: var(--third-color);
@@ -193,6 +191,6 @@ input[type=“submit”]:hover{
     margin-top: 1rem;
     width: 100vw;
     background-color: var(--fourth-color);
-    color: #fff;
+    color: var(--third-color);
     text-align: center;
 }
