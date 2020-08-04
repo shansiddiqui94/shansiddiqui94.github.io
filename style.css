@@ -179,7 +179,7 @@ input[type=“submit”]:hover{
     box-shadow: var(--shadow);
 }
 .job{
-    padding: 1rem;
+    padding: 0rem;
 }
 .education{
     width: 80vw;
